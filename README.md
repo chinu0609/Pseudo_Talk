@@ -57,7 +57,7 @@ RAG is a powerful approach that combines the strengths of retrieval systems with
 
 ## Customizing the Knowledge Base
 
-You can modify the characters' behaviors by editing the `charater.txt` files. This file contains the predefined traits, preferences, and responses for each character. Adjusting these values will change the way the characters interact with each other.
+You can modify the characters' behaviors by editing the `character.txt` files. This file contains the predefined traits, preferences, and responses for each character. Adjusting these values will change the way the characters interact with each other.
 
 ## Future Work
 
