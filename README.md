@@ -29,7 +29,7 @@ RAG is a powerful approach that combines the strengths of retrieval systems with
 
 
 - You need to have Ollama running first visit https://ollama.com/download to download and install ollama 
-- For this project I have used llama3 model, you can use your any model you like.
+- For this project I have used llama3 model or you can use any model you like.
     ```bash
 	   ollama pull <model_name> 
     ```
