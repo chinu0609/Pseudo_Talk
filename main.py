@@ -13,7 +13,7 @@ class Character():
 
 
 
-    def _get_index(self,data_folder:str,embed_model='../NanoScience/embed_model;'):
+    def _get_index(self,data_folder:str,embed_model='./embed_model;'):
            
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en",cache_folder=embed_model) # index from disk 
         data = SimpleDirectoryReader(input_dir=data_folder).load_data()
