@@ -19,6 +19,14 @@ RAG is a powerful approach that combines the strengths of retrieval systems with
 2. **Run the Model**: The RAG system retrieves relevant behaviors from the knowledge base and generates context-aware responses for each character during the conversation.
 3. **Observe Interaction**: The characters engage in dialogue based on the retrieved behaviors and generate natural, evolving conversations.
 
+## Sample Output
+![Video Preview](./assets/preview.webm)
+
+
+
+
+
+
 ## Technologies Used
 
 - **Python**: Core language for implementation.
