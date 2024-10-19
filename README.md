@@ -48,9 +48,11 @@ RAG is a powerful approach that combines the strengths of retrieval systems with
     pip install -r requirements.txt
     ```
 
-3. Run the model:
+3. Run the main.py file to observe the conversation between two characters or you can run talk_to_character.py to talk with the character you wish:
     ```bash
     python main.py
+        or
+    python talk_to_character.py
     ```
 
 ## Customizing the Knowledge Base
