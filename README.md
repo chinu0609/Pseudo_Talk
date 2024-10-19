@@ -1,6 +1,6 @@
 
 
-This project is an experiment that simulates conversations between characters (I did this experiment for **a boyfriend and a girlfriend**)—by using Retrieval-Augmented Generation (RAG). The goal is to observe how the predefined behaviors of the characters influence their dialogues based on the knowledge base provided.
+This project is an experiment that simulates conversations between characters (I did this experiment for **a boyfriend and a girlfriend**) by using Retrieval-Augmented Generation (RAG). The goal is to observe how the predefined behaviors of the characters influence their dialogues based on the knowledge base provided.
 
 ## Overview
 
