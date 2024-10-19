@@ -20,7 +20,7 @@ RAG is a powerful approach that combines the strengths of retrieval systems with
 3. **Observe Interaction**: The characters engage in dialogue based on the retrieved behaviors and generate natural, evolving conversations.
 
 ## Sample Output
-<img align="center" src="./assets/preview.mp4" type="video/mp4">
+[!Watch the video here](./assets/preview.mp4)
 
 
 
